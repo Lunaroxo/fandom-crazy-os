@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.14.2",
+  "notes": "Calls fixed: when both people started the call at the same moment it could get stuck on 'connecting…' for ever (both of you need this version). Calls between any two networks: the owner can turn on a Cloudflare call relay for everyone (Settings › Online). New badges: a new admin shield, a new moderator shield, and the old admin badge is now for content creators (owner picks them in Manage › Staff; a badge only, no powers)."
+ },
+ {
   "v": "1.14.1",
   "notes": "GIFs picked from the picture search now keep moving (app icons, profile pictures and more). Screenshots: Win+Shift+S works on the first press (Shift was getting lost, so it often opened Start instead), and Print Screen is caught by the app so Windows can't take it first."
  },
