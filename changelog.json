@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.17.0",
+  "notes": "Everything sent in Chatroom is now a link: pictures, drawings, voice messages, PDFs and other documents go to the free outside host (catbox, or qu.ax while catbox is paused), like GIFs, videos and songs already did, so they use no chat server storage. Up to 200 MB. Programs and scripts (.exe, .bat and so on) can't be sent. Device links fixed: 'That link could not be made' happened when your OS was over the 8 MB a link can carry; links are now compressed, and if still too big the biggest parts stay behind (Settings says which)."
+ },
+ {
   "v": "1.16.0",
   "notes": "Lite mode: when the chat server is full (about 200 live connections on the free plan), extra people still chat in lite mode, with new messages arriving every few seconds instead of instantly. Idle people (5 minutes without touching anything, not in a call) step down to lite and give their slot away; active lite people take a free slot back within about 45 seconds. A 🐢 Lite mode tag shows in Chatroom. New Settings › Devices tab: every phone and computer signed in to your account, with rename, sign out, and the one-time link to add a device. Owner: run Settings › Online › Update the server once for the device list."
  },
