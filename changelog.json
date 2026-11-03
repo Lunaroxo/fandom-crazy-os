@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.14.0",
+  "notes": "Support tickets are now conversations: write back and forth with the owner, and you get a notification when they answer. Owner: each ticket has Go to them, Everything they wrote (all their chat, DM, post and comment messages in one place, searchable), Time out and Ban. The 'Running inside Fandom Crazy OS' pop-up for computer apps has a Don't show again button. Change icon for built-in apps can now search the web for a picture too."
+ },
+ {
   "v": "1.13.9",
   "notes": "Apps imported from your computer: right-click > Change icon to search the web for a picture (or upload one) and crop it. Back to its own icon undoes it."
  },
