@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.17.3",
+  "notes": "Moderation: every message in Everything they wrote has See the conversation (the chat before and after it, any chat or DM, live), and nudges, songs, voice clips and files show what they are instead of a blank box. Reports get a Live chat around it button. Fandom edits (name, icon, logo) now show in the fandom list and apply after a restart. Chat: reply to a message (hover and press the reply arrow, or right-click and pick Reply); the reply shows a quote you can click to jump to the original. The owner needs Settings > Online > Update the server for the new moderation parts."
+ },
+ {
   "v": "1.17.2",
   "notes": "Songs, voice clips, pictures and documents sent in Chatroom now really become links. The free host (qu.ax) refuses some file names (.mp3, .wav, .ogg, .m4a, .docx…): songs now go up under a video name and still play as songs, and other refused files go up inside a .zip with the real file in it. One refused file no longer sends the next 10 minutes of uploads to your own storage."
  },
