@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.14.7",
+  "notes": "Chatroom: uploads that were cleaned up no longer show a 'cleared' note. Those messages simply disappear from the chat (and from the fan feed), so it stays tidy."
+ },
+ {
   "v": "1.14.6",
   "notes": "The taskbar volume and Mute now control every sound and video in the OS (they only changed the OS's own sounds before). Chat: songs and videos sent as files play right in the message; sending the same file again within a minute asks first, and an Uploading… line shows while it goes up. Files removed by a clean-up now say they were cleared instead of looking like they're still there. Fan feed @mentions are checked once a minute, which saves the chat server's free live updates. Toks: double-tap to like with a big heart, hearts burst when you like, Save and Share pop with a note, Nope swipes the Tok away, and the name and buttons slide in. Owner: run Update the server."
  },
