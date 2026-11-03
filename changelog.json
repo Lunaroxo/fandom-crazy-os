@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.14.8",
+  "notes": "Chat: GIFs, videos and songs you send now go to a free outside host as a link, so they take no space on the chat server (up to 200 MB each). Normal pictures, voice messages and other files still stay on the chat server, because outside links are public and can't be deleted."
+ },
+ {
   "v": "1.14.7",
   "notes": "Chatroom: uploads that were cleaned up no longer show a 'cleared' note. Those messages simply disappear from the chat (and from the fan feed), so it stays tidy."
  },
