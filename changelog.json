@@ -1,0 +1,82 @@
+[
+ {
+  "v": "1.13.8",
+  "notes": "Updates: checked on the startup screen (Y/N, Yes after 10 seconds) with live download and install progress, and a progress bar when you update from the desktop. Only the newest version is on GitHub now. Moderation: reports keep the conversation around them; 5 reports in a minute mutes for 10 minutes; owner media log (every picture and GIF); bans wipe the account's chat history and stop device links. Support tickets in Settings > Help & support. Fan feed: stories (1 day), GIFs, @mentions with notifications, pick fandoms, anti-spam. Quizer: songs play, new Guess the Clip quiz. Readable fandom picker, better wiki search. Owner: run Update the server once."
+ },
+ {
+  "v": "1.13.7",
+  "notes": "Your devices (Settings > Profile): sign your phone, Mac or another PC in to your account with a one-time link that copies everything over. Choose how long it works (10 minutes to 1 week). It works once and is encrypted, and each device gets its own sign-in. Owner: run Settings > Online > Update the server once to install it."
+ },
+ {
+  "v": "1.13.6",
+  "notes": "Profile pictures: search the web or upload, then crop (first start-up, Settings > Profile and the Chatroom profile and banner). Tutorials: every app offers a short tour the first time you open it, with a welcome tour for new users. Skip any of them; find them all, with search, in Settings > Tutorials. Owner: Chatroom > Manage > Fandoms edits any fandom for everyone (name, icon, logo, wallpaper, add/hide/re-picture characters, app pictures). Run Update the server once."
+ },
+ {
+  "v": "1.13.5",
+  "notes": "Uploads can now be kept forever on Cloudflare R2 (owner: Chatroom > Manage > Storage has the steps). Pictures are shrunk to WebP. New owner clean-up: delete uploads older than X days, weeks, months or years, or between two dates, by kind, and it shows how many files and how much space first. Automatic clean-up can be turned off. Only the owner can change the chat server, invites or call relay. Owners: run Settings > Online > Update the server once."
+ },
+ {
+  "v": "1.13.4",
+  "notes": "Icon styles (Settings > Appearance > Icons): Default (characters), Bland (plain icons that match the theme's colour, or pick your own colour for all), Randomized (random pictures of the fandom's characters with a progress bar, Re-roll and Reset), and Classic."
+ },
+ {
+  "v": "1.13.3",
+  "notes": "Emoji: Fandom Crazy sticker emoji with a white edge and shadow, which wiggle when you point at them and pop in when sent alone. Search for any emoji by name in the emoji picker (cat, party, cry…) across all 1,900 emoji. Hover an emoji to see its name."
+ },
+ {
+  "v": "1.13.2",
+  "notes": "Fandom search: the real wiki comes first again. Example: Sally Face had been picking a near-empty copy (sallyface.fandom.com, 3 characters) instead of sally-face.fandom.com (62 characters). If a fandom looks almost empty, pick it again from the fandom picker."
+ },
+ {
+  "v": "1.13.1",
+  "notes": "Faster pictures: image search and wallpaper search used to wait 15+ seconds for a picture site that never answers. Results now come in about half a second, and the pictures are the same as before. Change icon now shows every character of the fandom (Sally Face: 62), whole instead of cut off."
+ },
+ {
+  "v": "1.13.0",
+  "notes": "Emoji: Fandom Crazy now has its own emoji set everywhere, the same on every computer and phone, instead of Windows emoji. Change it in Settings > Appearance > Emoji: colourful, retro black-and-white outline, or the computer's own."
+ },
+ {
+  "v": "1.12.99",
+  "notes": "Cursor Maker: draw your own cursor pixel by pixel (Settings > Cursor & Effects > Make my own cursor). Animation frames, onion skin, speed, click point, mirror, outline, recolour, picture or GIF import, and a separate link cursor. Your cursor also goes into the Windows cursor pack export. The emoji next to the themed cursor is gone."
+ },
+ {
+  "v": "1.12.98",
+  "notes": "Chatroom: back to the normal look by default (Classic 2005 is in Options > Look). Staff badges are drawn icons now, and nobody can fake them with emoji in their name. Only the app owner can rename fandom servers or add/change their channels. Banning works again. Quizer: mix several fandoms, or press Every fandom. Party quiz: pick your own fandoms. Fandoms: every character from the wiki, a stronger search, and an Import from a link button. Updates: the popup lists every version you missed. Owners: run Settings > Online > Update the server once."
+ },
+ {
+  "v": "1.12.97",
+  "notes": "Chatroom: new classic 2005 messenger look (text tabs, Name says:, square buttons, words instead of emoji), switchable in Options > Look with font, text size, pictures, your message colour and chat background. Kicks now take effect live: the person is thrown out right away and can't rejoin for 10 minutes. Reports list everyone who reported a message. Owners: run Settings > Online > Update the server once for kicks to stick."
+ },
+ {
+  "v": "1.12.96",
+  "notes": "Chat fixes: deleting someone else's message (as owner or staff) now removes it right away for everyone, and you get an error if it couldn't be deleted. Owners: the Clean up now error (column reference key is ambiguous) is fixed after you run Settings > Online > Update the server once."
+ },
+ {
+  "v": "1.12.95",
+  "notes": "Chatroom: new messages now show up by themselves (it also checks every few seconds, so a dropped live connection on phones no longer means reopening the chat). Phone: servers are a row along the top and the channel list stays visible above the chat, so you can switch channels."
+ },
+ {
+  "v": "1.12.94",
+  "notes": "Android: picture viewer and crop buttons no longer hide behind the phone's own Back/Home buttons or status bar. New: Settings › Desktop › Phone buttons lets you choose a three-button bar, gesture line, or no room."
+ },
+ {
+  "v": "1.12.93",
+  "notes": "Android: the app now joins the built-in chat server by itself, with no invite code. Android: your whole OS (settings, files, chat account) is backed up to the chat server every minute, so uninstalling and reinstalling brings everything back on the same account. Tip: to update on Android, just open the new APK and install it over the old app; you don't need to uninstall first, and nothing is lost."
+ },
+ {
+  "v": "1.12.92",
+  "notes": "Fandom wallpapers now load right away on Windows, Linux and Android: a real wallpaper is picked first instead of the wiki's mostly-blank page background. The apps now check for updates every minute (it won't ask twice about the same version). Android: no second Back/Home/Apps bar above the phone's own buttons; All apps and Recent apps are in the dock. Phone layouts reworked for Studio, Film, Rig Builder, Paint, OC Maker, OC Playground, Photo Booth, Tier List, Episode Tracker, File Explorer and Everything: toolbars slide sideways instead of squashing, editors scroll as one column with the picture pinned on top."
+ },
+ {
+  "v": "1.12.91",
+  "notes": "Notifications: chat messages now land in the 🔔 Notifications list and pop up; clicking one (or its pop-up) opens that exact conversation. Chatroom is in Settings › Notifications (on by default). The OS's own little messages are kept in the list too."
+ },
+ {
+  "v": "1.12.90",
+  "notes": "OC Playground: import .fandom rigs (and .oc files) as characters with the new Import button. Characters can now Spin (turn to the side or away), Tip forward or back, and move Further back (smaller, higher up, drawn behind), on top of Turn."
+ },
+ {
+  "v": "1.12.89",
+  "notes": "Auto-updates: from this version on, Fandom Crazy OS checks for a new version every time it starts and asks before updating. Also: finds small fandom wikis Fandom's own search misses, paste any fandom.com wiki link, and a fandom only finishes loading once its wallpaper actually shows."
+ }
+]
