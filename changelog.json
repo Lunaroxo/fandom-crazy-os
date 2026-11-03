@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.17.1",
+  "notes": "Storage check: the owner's media log now marks every picture as 🔗 Link (no space) or 💾 On your storage. If the free file hosts are ever down and an upload has to be saved on your own storage, the sender now gets a notice instead of it happening silently."
+ },
+ {
   "v": "1.17.0",
   "notes": "Everything sent in Chatroom is now a link: pictures, drawings, voice messages, PDFs and other documents go to the free outside host (catbox, or qu.ax while catbox is paused), like GIFs, videos and songs already did, so they use no chat server storage. Up to 200 MB. Programs and scripts (.exe, .bat and so on) can't be sent. Device links fixed: 'That link could not be made' happened when your OS was over the 8 MB a link can carry; links are now compressed, and if still too big the biggest parts stay behind (Settings says which)."
  },
