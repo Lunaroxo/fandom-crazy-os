@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.14.4",
+  "notes": "Fan feed: post a picture, GIF or video by pasting its link with the new 🔗 Media link button. YouTube, TikTok, Streamable, Vimeo, Twitch clips, Google Drive and Imgur play right in the post, and none of it uses the chat server's space. Video files (up to 200 MB) are posted through a free outside host, so only the link is kept. Owner: run Update the server."
+ },
+ {
   "v": "1.14.3",
   "notes": "Upload limits: everyone can upload 10 files every 10 minutes, with a warning before the limit (uploads cost server money). Cloudflare storage stops at a cap (9 GB, under the free 10 GB) so it never charges; the owner can change it in Manage › Storage. Owner: run Update the server, then copy the new Worker code from Manage › Storage into Cloudflare."
  },
