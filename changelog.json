@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.17.4",
+  "notes": "Picture searches load more as you scroll: keep scrolling down in Find a picture (profile, fandom and OC pictures), stickers and chat GIFs and the next page of results loads by itself."
+ },
+ {
   "v": "1.17.3",
   "notes": "Moderation: every message in Everything they wrote has See the conversation (the chat before and after it, any chat or DM, live), and nudges, songs, voice clips and files show what they are instead of a blank box. Reports get a Live chat around it button. Fandom edits (name, icon, logo) now show in the fandom list and apply after a restart. Chat: reply to a message (hover and press the reply arrow, or right-click and pick Reply); the reply shows a quote you can click to jump to the original. The owner needs Settings > Online > Update the server for the new moderation parts."
  },
