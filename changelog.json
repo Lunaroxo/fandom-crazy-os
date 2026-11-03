@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.15.0",
+  "notes": "Chat: links to YouTube, TikTok, Streamable, Vimeo, Twitch clips, Google Drive, GIFs, pictures, videos and songs now play or show right in the message. GIFs, videos and songs you send become links again: catbox.moe has paused uploads, so they now go to qu.ax (kept a year) when catbox is down, and only fall back to the chat server if both are down."
+ },
+ {
   "v": "1.14.9",
   "notes": "GIFs, videos and songs always send now. The free outside host (catbox.moe) has paused uploads, so when it's down they go to the chat server's own storage instead (up to 25 MB), and it's tried again every 10 minutes."
  },
