@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.17.2",
+  "notes": "Songs, voice clips, pictures and documents sent in Chatroom now really become links. The free host (qu.ax) refuses some file names (.mp3, .wav, .ogg, .m4a, .docx…): songs now go up under a video name and still play as songs, and other refused files go up inside a .zip with the real file in it. One refused file no longer sends the next 10 minutes of uploads to your own storage."
+ },
+ {
   "v": "1.17.1",
   "notes": "Storage check: the owner's media log now marks every picture as 🔗 Link (no space) or 💾 On your storage. If the free file hosts are ever down and an upload has to be saved on your own storage, the sender now gets a notice instead of it happening silently."
  },
