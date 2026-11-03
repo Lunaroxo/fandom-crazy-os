@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.14.9",
+  "notes": "GIFs, videos and songs always send now. The free outside host (catbox.moe) has paused uploads, so when it's down they go to the chat server's own storage instead (up to 25 MB), and it's tried again every 10 minutes."
+ },
+ {
   "v": "1.14.8",
   "notes": "Chat: GIFs, videos and songs you send now go to a free outside host as a link, so they take no space on the chat server (up to 200 MB each). Normal pictures, voice messages and other files still stay on the chat server, because outside links are public and can't be deleted."
  },
