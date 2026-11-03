@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.13.9",
+  "notes": "Apps imported from your computer: right-click > Change icon to search the web for a picture (or upload one) and crop it. Back to its own icon undoes it."
+ },
+ {
   "v": "1.13.8",
   "notes": "Updates: checked on the startup screen (Y/N, Yes after 10 seconds) with live download and install progress, and a progress bar when you update from the desktop. Only the newest version is on GitHub now. Moderation: reports keep the conversation around them; 5 reports in a minute mutes for 10 minutes; owner media log (every picture and GIF); bans wipe the account's chat history and stop device links. Support tickets in Settings > Help & support. Fan feed: stories (1 day), GIFs, @mentions with notifications, pick fandoms, anti-spam. Quizer: songs play, new Guess the Clip quiz. Readable fandom picker, better wiki search. Owner: run Update the server once."
  },
