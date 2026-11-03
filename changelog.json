@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.14.5",
+  "notes": "The fan feed no longer uses the chat server's storage at all: GIFs from the GIF picker are posted as links, and pictures you upload go to a free outside host (like videos), so only the link is kept. Chats, DMs and profile pictures still use the chat server's storage."
+ },
+ {
   "v": "1.14.4",
   "notes": "Fan feed: post a picture, GIF or video by pasting its link with the new 🔗 Media link button. YouTube, TikTok, Streamable, Vimeo, Twitch clips, Google Drive and Imgur play right in the post, and none of it uses the chat server's space. Video files (up to 200 MB) are posted through a free outside host, so only the link is kept. Owner: run Update the server."
  },
