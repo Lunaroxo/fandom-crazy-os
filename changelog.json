@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.19.0",
+  "notes": "1.19.0: Film's Motion mode is now its own editor: a layers panel (show / hide, lock), shapes (rectangle, circle, star, polygon, triangle, heart, line) with fill, gradient, border, shadow and glow, blending modes, setting groups like Alight Motion with a ◆ keyframe on every value, a row per animated value on the timeline, and a graph editor with easing presets and custom curves. Shortcuts: Alt+1–7 shapes, F2–F9 groups, H hide, G graph."
+ },
+ {
   "v": "1.18.1",
   "notes": "1.18.1: Film timeline: left-drag a box to pick clips (move, copy, delete them together; Ctrl+G groups them into one clip, Ctrl+Shift+G ungroups), right-drag a box to pick keyframes (red ticks too): Delete, Ctrl+C / Ctrl+V."
  },
