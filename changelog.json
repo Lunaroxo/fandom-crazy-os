@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.17.11",
+  "notes": "1.17.11: Call relay accepts an address without turn: in front (like free.expressturn.com:3478) and no longer says Saved when the address was thrown away."
+ },
+ {
   "v": "1.17.10",
   "notes": "1.17.10: Quizer grows with its window (maximized it's about 1.6x bigger)."
  },
