@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.20.2",
+  "notes": "1.20.2: Motion editor: rotation and other values work again on clips that had a whole-clip keyframe (and R rotates); the whole editor turns dark and pro while Motion is on, with a settings rail on the right, coloured clips and show / hide and lock on each track."
+ },
+ {
   "v": "1.20.1",
   "notes": "1.20.1: Rig Builder gets the new rig tools: a Turn dial to try turnarounds, picture by angle (front / ¾ / side, mirrored, shifted), expression and gesture sets, turn limits for joints and bones, and an axis editor with exact numbers. Sets and Turn are saved in .fandom files and go into Film with the rig."
  },
