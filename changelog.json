@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.18.0",
+  "notes": "1.18.0: Film gets Motion mode (✨ Motion in the toolbar): one-click animations on the beat (bounce, head bop, squash & stretch, zoom punch, shake, wiggle, spin, jump…), pop / slide / drop / spin-in, BPM with tap tempo and beat lines on the timeline, and text that animates letter by letter. Rig bones can now be moved, not just turned, so heads can bounce."
+ },
+ {
   "v": "1.17.18",
   "notes": "1.17.18: Mall finds a lot more: the store searches work again (Etsy, eBay, BoxLunch, Redbubble, TeePublic…), 13 more stores and knock-off sites, Makeship, and a character's name finds listings that don't name the show."
  },
