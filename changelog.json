@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.17.16",
+  "notes": "1.17.16: Speed spelling gives points by the word: get part of the name (Wendy of Wendy Corduroy) and you still score that share of 500."
+ },
+ {
   "v": "1.17.15",
   "notes": "1.17.15: New party game Guess who (2 players, rest of the call watches). Speed spelling: Skip button, right words fill in one by one, main characters only. Leave any party game (Rejoin anytime); the game ends when everyone else has left."
  },
