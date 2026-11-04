@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.17.12",
+  "notes": "1.17.12: Quizzes only use real characters (no wiki pages, teams, techniques, actors, crowd or cover pictures). Party quiz: one at a time, fandoms in random order, no repeats, everyone's fandoms from the call, well-known or every character, saved fandom picks. Calls: each person's volume, mute for you, and focus."
+ },
+ {
   "v": "1.17.11",
   "notes": "1.17.11: Call relay accepts an address without turn: in front (like free.expressturn.com:3478) and no longer says Saved when the address was thrown away."
  },
