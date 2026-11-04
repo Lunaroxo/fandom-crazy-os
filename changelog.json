@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.21.0",
+  "notes": "Film Motion editor rebuilt. One keyframe system: every value has its own track (like After Effects), so nothing snaps back and moves play smoothly when you play or scrub. Old films are converted when opened. Timeline: playhead lines up with the ruler, tracks open (▸) to show each animated value, drag / pick / copy / paste / duplicate / delete keyframes, trim clips from both ends, snapping (🧲). Graph editor now sits under the timeline with bézier handles. Each clip has its own effect list (add, reorder, turn off, keyframe every setting) with new effects: glow, drop shadow, outline, directional blur, RGB split, wave, gradient, circle and box masks. Picture handles to resize and rotate, guides that snap to the middle and edges, Ctrl+click to move several. Layers: drag to reorder, double-click to rename, duplicate, delete. Clip transitions (fade, slide, zoom, blur, wipe), sound fade in / out, and a Media tab with everything you imported."
+ },
+ {
   "v": "1.20.2",
   "notes": "1.20.2: Motion editor: rotation and other values work again on clips that had a whole-clip keyframe (and R rotates); the whole editor turns dark and pro while Motion is on, with a settings rail on the right, coloured clips and show / hide and lock on each track."
  },
