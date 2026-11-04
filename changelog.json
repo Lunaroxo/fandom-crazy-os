@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.17.5",
+  "notes": "Fix: chat could fail to connect with 'The chat server needs an update first' and a 'Slow down' warning. A new chat account with its own profile picture tried to upload the picture before the profile existed, which the server refuses; it now makes the profile first, then uploads the picture (and still lets you in if the picture fails)."
+ },
+ {
   "v": "1.17.4",
   "notes": "Picture searches load more as you scroll: keep scrolling down in Find a picture (profile, fandom and OC pictures), stickers and chat GIFs and the next page of results loads by itself."
  },
