@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.17.14",
+  "notes": "1.17.14: Command Prompt gets real commands: UPDATE (and UPDATE CHECK), APPS, KILL, FANDOM SET, SEARCH, WIKI, CALC, TIMER, ROLL, FLIP, SETTINGS, ONLINE, ERRORS, TICKET, HISTORY, UPTIME, RESTART. VER shows the real version."
+ },
+ {
   "v": "1.17.13",
   "notes": "1.17.13: Party games: Fandom imposter and Speed spelling join the party quiz, with one shared setup (saved picks, characters, timing). Only one person sets up at a time; idle 40s closes it. Quizer: whole pictures (not cropped), next picture loads ahead, waits for Next, saved picks always there."
  },
