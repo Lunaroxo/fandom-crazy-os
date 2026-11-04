@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.17.18",
+  "notes": "1.17.18: Mall finds a lot more: the store searches work again (Etsy, eBay, BoxLunch, Redbubble, TeePublic…), 13 more stores and knock-off sites, Makeship, and a character's name finds listings that don't name the show."
+ },
+ {
   "v": "1.17.17",
   "notes": "1.17.17: Guess who remade: pick your own character, every picked fandom mixed on the board, ask one question per turn and the other player answers Yes / No / Not sure, guessing only after 3 questions, and your character stays secret on your own app."
  },
