@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.18.1",
+  "notes": "1.18.1: Film timeline: left-drag a box to pick clips (move, copy, delete them together; Ctrl+G groups them into one clip, Ctrl+Shift+G ungroups), right-drag a box to pick keyframes (red ticks too): Delete, Ctrl+C / Ctrl+V."
+ },
+ {
   "v": "1.18.0",
   "notes": "1.18.0: Film gets Motion mode (✨ Motion in the toolbar): one-click animations on the beat (bounce, head bop, squash & stretch, zoom punch, shake, wiggle, spin, jump…), pop / slide / drop / spin-in, BPM with tap tempo and beat lines on the timeline, and text that animates letter by letter. Rig bones can now be moved, not just turned, so heads can bounce."
  },
