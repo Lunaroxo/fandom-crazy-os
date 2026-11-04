@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.17.8",
+  "notes": "1.17.8: Owner panel › 🔁 Accounts gives people (or you) their old account back; the empty account is deleted after a day and can be undone until then. Error popups get a 🎫 Send a ticket button. Run Update the server once."
+ },
+ {
   "v": "1.17.7",
   "notes": "1.17.7: devices no longer get signed out (and onto a new empty account) just because their device record went missing. Owner can give someone their old account back (profile › 🔁 Give back their old account…). Run Update the server once."
  },
