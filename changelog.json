@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.17.6",
+  "notes": "Get your old chat account back: if a device lost its sign-in and got a new empty account, the owner opens the Owner patch and the app offers to go back to the older owner account (chats, friends and groups return). Also: a device that gets signed out now asks before starting a new empty account instead of doing it silently. The owner needs Settings > Online > Update the server first."
+ },
+ {
   "v": "1.17.5",
   "notes": "Fix: chat could fail to connect with 'The chat server needs an update first' and a 'Slow down' warning. A new chat account with its own profile picture tried to upload the picture before the profile existed, which the server refuses; it now makes the profile first, then uploads the picture (and still lets you in if the picture fails)."
  },
