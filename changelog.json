@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.20.0",
+  "notes": "1.20.0: Better rigs: a new starter puppet (shaded, a head that turns front / ¾ / side, 10 eyes, 11 mouth shapes, 5 hand poses), a Turn dial on every rig, pictures that change by angle (by a part's own turn or the Turn dial, mirrored and shifted), expression / gesture sets (one click changes eyes + mouth or both hands), rotation limits so elbows and knees bend the right way, and an axis editor (exact joint, pivot and turn)."
+ },
+ {
   "v": "1.19.0",
   "notes": "1.19.0: Film's Motion mode is now its own editor: a layers panel (show / hide, lock), shapes (rectangle, circle, star, polygon, triangle, heart, line) with fill, gradient, border, shadow and glow, blending modes, setting groups like Alight Motion with a ◆ keyframe on every value, a row per animated value on the timeline, and a graph editor with easing presets and custom curves. Shortcuts: Alt+1–7 shapes, F2–F9 groups, H hide, G graph."
  },
