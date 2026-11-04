@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.17.9",
+  "notes": "1.17.9: Remove owner from other owner accounts (👑 Staff). 🔁 Accounts suggests people with their pictures as you type. Run Update the server once."
+ },
+ {
   "v": "1.17.8",
   "notes": "1.17.8: Owner panel › 🔁 Accounts gives people (or you) their old account back; the empty account is deleted after a day and can be undone until then. Error popups get a 🎫 Send a ticket button. Run Update the server once."
  },
