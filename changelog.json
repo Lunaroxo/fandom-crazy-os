@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.17.10",
+  "notes": "1.17.10: Quizer grows with its window (maximized it's about 1.6x bigger)."
+ },
+ {
   "v": "1.17.9",
   "notes": "1.17.9: Remove owner from other owner accounts (👑 Staff). 🔁 Accounts suggests people with their pictures as you type. Run Update the server once."
  },
