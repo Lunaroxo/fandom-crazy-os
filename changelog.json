@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.17.17",
+  "notes": "1.17.17: Guess who remade: pick your own character, every picked fandom mixed on the board, ask one question per turn and the other player answers Yes / No / Not sure, guessing only after 3 questions, and your character stays secret on your own app."
+ },
+ {
   "v": "1.17.16",
   "notes": "1.17.16: Speed spelling gives points by the word: get part of the name (Wendy of Wendy Corduroy) and you still score that share of 500."
  },
