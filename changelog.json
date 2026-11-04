@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.17.7",
+  "notes": "1.17.7: devices no longer get signed out (and onto a new empty account) just because their device record went missing. Owner can give someone their old account back (profile › 🔁 Give back their old account…). Run Update the server once."
+ },
+ {
   "v": "1.17.6",
   "notes": "Get your old chat account back: if a device lost its sign-in and got a new empty account, the owner opens the Owner patch and the app offers to go back to the older owner account (chats, friends and groups return). Also: a device that gets signed out now asks before starting a new empty account instead of doing it silently. The owner needs Settings > Online > Update the server first."
  },
