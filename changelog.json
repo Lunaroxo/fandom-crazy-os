@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.21.9",
+  "notes": "Film fixes: the Hotkeys window no longer grabs keys you press in Film while it waits (that mixed up your keys); Shift, Ctrl, Delete, Enter, Esc, Tab and F-keys can't be picked; each key has a ↺ to reset it. Holding a key does its action once. Split cuts the clip under the playhead even right after a cut. Every change is its own undo step, and redo works after undo. Picking a clip no longer opens its keyframe rows or the keyframe window (▸ opens the rows; the keyframe window opens when you click a keyframe in a row or the graph)."
+ },
+ {
   "v": "1.21.8",
   "notes": "Film: tidier Put inside menu. It only lists the layers on screen at the same time as this one (most overlap first, up to 8), with Take out at the top. More… opens a searchable list of every layer with its times."
  },
