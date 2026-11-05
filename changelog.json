@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.21.13",
+  "notes": "Remove background: the AI now runs in the background on your graphics card (no more lag, under a second per picture after the first). New option: remove.bg with your own free API key for the best cut-outs. The colour way is still there."
+ },
+ {
   "v": "1.21.12",
   "notes": "Remove background now uses an AI cut-out (RMBG-1.4, runs on your computer; about 45 MB downloads the first time) so photos with busy backgrounds cut out cleanly. Edge slider for tighter or softer edges. The old colour way is still there (and used when offline)."
  },
