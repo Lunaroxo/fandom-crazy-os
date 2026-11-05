@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.21.3",
+  "notes": "Fandom imposter: Easy/Normal/Hard difficulty (Hard: the imposter only knows the topic and bluffs, 1-word clues), word topics (places & scenes, food, animals, jobs, things, things to do, random) and your own word list, choose how many clues a person sends per turn, Enter sends your clue, Skip button, every clue stays visible beside your card, the imposter never goes first, and secrets don't repeat game after game."
+ },
+ {
   "v": "1.21.2",
   "notes": "Film: new 🪟 View menu to set up your layout: graph under the timeline, beside the tracks or in its own window; value window floating, in the right panel or off; show or hide the layers, settings and timeline; swap the side panels. Click any setting's name to open its little window: colour wheel for colours, 360° dial for turns, position pad, slider for the rest (a 🎨 button opens the wheel too). Grab a track's name on the timeline and drag it up or down to put it in front of or behind other layers."
  },
