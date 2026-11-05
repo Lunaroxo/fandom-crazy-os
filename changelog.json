@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.21.11",
+  "notes": "Film: pose search scrolls to load more, pick the engine (Google, Pinterest, Bing, DeviantArt, Tumblr, Reddit, Openverse, cut-out PNGs, the fandom wiki) and search only the fandom or everything. Clicking empty timeline lets go of the clip. The library search box no longer grabs your keys after every click."
+ },
+ {
   "v": "1.21.10",
   "notes": "Film: things sticking out of the film now show faded only when picked, a thin dashed film edge shows when they stick out, and the faded part hides while playing or dragging."
  },
