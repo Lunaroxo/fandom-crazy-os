@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.21.6",
+  "notes": "Film: double-click now really works on timeline clips and layers (it opens groups, text, shapes, pictures; double-click a layer's name to rename it). Inside a group, its clips show where the group really is, with the rest of the film faded behind; going back puts the timeline's zoom, scroll and time back where they were. A group you trimmed keeps its length after editing inside. New ⌨️ Hotkeys window (timeline bar or View menu): click an action and press a new key."
+ },
+ {
   "v": "1.21.5",
   "notes": "Film fixes: export now records the whole film as it plays (it froze on the first frame before, so rotations, moves and picture swaps were missing or went black); all pictures load before exporting. Undo works right after changing a slider or number. Ctrl+D and S (split) work on every picked clip, not just one. Double-click a group to work inside it (← Back or Esc to return); double-click text to type on the picture; double-click a shape for its colour wheel, a picture for a new picture, a rig for its rig panel. The graph and value rows follow the clip you pick. 📐 Ratio button: 16:9, 9:16 (Shorts / TikTok), 1:1, 4:5, 4:3, 21:9. Trimming shows the times (Alt: no snapping). Wiki sounds (.ogg) play now."
  },
