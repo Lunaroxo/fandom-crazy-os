@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.21.12",
+  "notes": "Remove background now uses an AI cut-out (RMBG-1.4, runs on your computer; about 45 MB downloads the first time) so photos with busy backgrounds cut out cleanly. Edge slider for tighter or softer edges. The old colour way is still there (and used when offline)."
+ },
+ {
   "v": "1.21.11",
   "notes": "Film: pose search scrolls to load more, pick the engine (Google, Pinterest, Bing, DeviantArt, Tumblr, Reddit, Openverse, cut-out PNGs, the fandom wiki) and search only the fandom or everything. Clicking empty timeline lets go of the clip. The library search box no longer grabs your keys after every click."
  },
