@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.21.8",
+  "notes": "Film: tidier Put inside menu. It only lists the layers on screen at the same time as this one (most overlap first, up to 8), with Take out at the top. More… opens a searchable list of every layer with its times."
+ },
+ {
   "v": "1.21.7",
   "notes": "Film: things that stick out of the film can still be grabbed and moved (they show faded outside the picture, and their handles are never cut off). New 🖼️ Picture tab in the Motion editor: change pose (search), swap from the library, search the web, upload, crop, remove background, make a rig; videos get their sound and start settings there. Double-click a picture to open it."
  },
