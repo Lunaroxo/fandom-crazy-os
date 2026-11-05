@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.21.14",
+  "notes": "Film: several picked clips now scale and rotate together. Right-drag a thing on the picture to move its whole animation (with the rotate or scale tool: turn or grow it all). Clicking a clip on the timeline picks the clip, not its keyframes (click the diamonds again once it's picked)."
+ },
+ {
   "v": "1.21.13",
   "notes": "Remove background: the AI now runs in the background on your graphics card (no more lag, under a second per picture after the first). New option: remove.bg with your own free API key for the best cut-outs. The colour way is still there."
  },
