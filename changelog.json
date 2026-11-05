@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.21.4",
+  "notes": "Film: easier layering. Split clips that were inside another layer no longer go invisible. Right-click › Put inside lists every layer (with times), and in Layers you can drop one layer onto the middle of another to put it inside. Right-click › Order: bring to front, forward, backward, send to back. Drag a clip onto the ruler (new top track) or the empty space under the tracks (new bottom track). Clips can't hide under each other on one track any more. New tools under the picture: Move (V), Rotate, Scale, Pivot (P, move the point it turns around), Razor (C, click a clip to cut it), Text, Rectangle and Ellipse (drag to draw), Hand and Zoom (Z). The graph redraws at its real size, and the value window can be dragged anywhere and stays there."
+ },
+ {
   "v": "1.21.3",
   "notes": "Fandom imposter: Easy/Normal/Hard difficulty (Hard: the imposter only knows the topic and bluffs, 1-word clues), word topics (places & scenes, food, animals, jobs, things, things to do, random) and your own word list, choose how many clues a person sends per turn, Enter sends your clue, Skip button, every clue stays visible beside your card, the imposter never goes first, and secrets don't repeat game after game."
  },
