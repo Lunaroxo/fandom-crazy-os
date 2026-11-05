@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.21.1",
+  "notes": "Film: put things inside other things. Pick a layer and choose Stay inside (or right-click › Put inside), and it only shows within that layer's shape, like text inside a star, without moving or turning with it. Click a keyframe and its own editor opens over the picture: a 360° dial for rotation with Flat, Tilt and Turn (3D) axes, a pad with the motion path for position, and a slider for everything else. New Tilt and Turn 3D values. Clicking a value's row (rotate, size, X/Y) makes dragging the picture do that, with tool buttons on the preview. Rotating keeps counting past a full turn."
+ },
+ {
   "v": "1.21.0",
   "notes": "Film Motion editor rebuilt. One keyframe system: every value has its own track (like After Effects), so nothing snaps back and moves play smoothly when you play or scrub. Old films are converted when opened. Timeline: playhead lines up with the ruler, tracks open (▸) to show each animated value, drag / pick / copy / paste / duplicate / delete keyframes, trim clips from both ends, snapping (🧲). Graph editor now sits under the timeline with bézier handles. Each clip has its own effect list (add, reorder, turn off, keyframe every setting) with new effects: glow, drop shadow, outline, directional blur, RGB split, wave, gradient, circle and box masks. Picture handles to resize and rotate, guides that snap to the middle and edges, Ctrl+click to move several. Layers: drag to reorder, double-click to rename, duplicate, delete. Clip transitions (fade, slide, zoom, blur, wipe), sound fade in / out, and a Media tab with everything you imported."
  },
