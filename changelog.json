@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.21.23",
+  "notes": "Film: Export video now asks Normal (plays through once, MP4) or Frame by frame (WebM). Frame by frame draws every frame exactly, with videos moved to each moment and the sound mixed separately, so it never skips or jumps, even on a slow computer."
+ },
+ {
   "v": "1.21.22",
   "notes": "Film export: no more jump near the start. A big picture opened for the first time while recording held the video up for a moment (about 0.3 s of frames were missing). Now every picture is opened and every moment drawn once before recording starts."
  },
