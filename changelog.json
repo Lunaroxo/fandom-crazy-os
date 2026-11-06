@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.21.17",
+  "notes": "Film: new Camera tool (🎥) - the film is seen through a camera clip you can move, zoom and turn with keyframes and give its own effects; camera mode shows just its timeline and a little map with a yellow box of what it sees (Esc: back). New Grease pencil tool (✏️) - draw on the film frame by frame (pencil, eraser, line, rectangle, ellipse, fill, colour pick), onion skin, line boil, its own frames row (Esc: back). Flash effect now has brightness, number of flashes, rise and fade. Several picked clips: change blending, opacity, size, rotate and add effects on all at once, and ◆ / K keys them all."
+ },
+ {
   "v": "1.21.16",
   "notes": "Fixes the screen going black: Film's undo kept up to 100 full copies of every cut-out or pasted picture and the cut-out preview never let old previews go, so memory ran out. Now pictures are kept once. If the window ever crashes it reloads by itself (your autosave comes back) and notes why in crash-log.txt. Also: right-drag on the timeline picks only keyframes (even starting on a clip), no clip menu pops up after it, and Delete removes just those keyframes."
  },
