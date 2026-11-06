@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.21.19",
+  "notes": "Film: new Bloom effect - bright parts glow and spill light, as a layer (everything under it) or on one clip. Settings: brightness that glows, soft start, intensity, size, wide halo, tint colour, colourful glow, edges only, and only round a spot (across / down)."
+ },
+ {
   "v": "1.21.18",
   "notes": "Film: new Tracker tool (🎯) - drag a box over a face or hand, Auto track, and a clip or the camera follows it (x / y keyframes). New effects: Velocity flash (zoom punch, speed blur and a flash on every beat) and Chroma key (green screen, with a colour picker). Effect layers are clearer: the Effects menu is in groups and says a layer changes everything under it; a clip's effect list can also add one as a layer."
  },
