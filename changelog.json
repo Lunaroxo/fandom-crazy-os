@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.21.18",
+  "notes": "Film: new Tracker tool (🎯) - drag a box over a face or hand, Auto track, and a clip or the camera follows it (x / y keyframes). New effects: Velocity flash (zoom punch, speed blur and a flash on every beat) and Chroma key (green screen, with a colour picker). Effect layers are clearer: the Effects menu is in groups and says a layer changes everything under it; a clip's effect list can also add one as a layer."
+ },
+ {
   "v": "1.21.17",
   "notes": "Film: new Camera tool (🎥) - the film is seen through a camera clip you can move, zoom and turn with keyframes and give its own effects; camera mode shows just its timeline and a little map with a yellow box of what it sees (Esc: back). New Grease pencil tool (✏️) - draw on the film frame by frame (pencil, eraser, line, rectangle, ellipse, fill, colour pick), onion skin, line boil, its own frames row (Esc: back). Flash effect now has brightness, number of flashes, rise and fade. Several picked clips: change blending, opacity, size, rotate and add effects on all at once, and ◆ / K keys them all."
  },
