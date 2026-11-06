@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.21.21",
+  "notes": "Film export: the start of the video is smooth now. A film with no sound at the very start made the video file's sound begin late, which threw off the timing of the first part (and could cut the video short); now silence is recorded from the first moment. Export also warms up pictures, effects and videos before it starts, and the preview stops drawing while it records."
+ },
+ {
   "v": "1.21.20",
   "notes": "Film: Bloom now makes bright colours glow too (pink, blue, red text), not just whites. An effect layer's settings say how many clips it changes and how many are above it, with a Put it on top button."
  },
