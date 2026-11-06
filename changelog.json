@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.21.15",
+  "notes": "Film: Ctrl+Z undoes a whole drag in one step (it used to take several presses). Delete removes the picked keyframes even when the keyframe window is focused. New Whole animation tool (⇶): drag moves every keyframe at once, the turn knob turns it all, a corner grows it all."
+ },
+ {
   "v": "1.21.14",
   "notes": "Film: several picked clips now scale and rotate together. Right-drag a thing on the picture to move its whole animation (with the rotate or scale tool: turn or grow it all). Clicking a clip on the timeline picks the clip, not its keyframes (click the diamonds again once it's picked)."
  },
