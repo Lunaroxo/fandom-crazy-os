@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.21.20",
+  "notes": "Film: Bloom now makes bright colours glow too (pink, blue, red text), not just whites. An effect layer's settings say how many clips it changes and how many are above it, with a Put it on top button."
+ },
+ {
   "v": "1.21.19",
   "notes": "Film: new Bloom effect - bright parts glow and spill light, as a layer (everything under it) or on one clip. Settings: brightness that glows, soft start, intensity, size, wide halo, tint colour, colourful glow, edges only, and only round a spot (across / down)."
  },
