@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.21.22",
+  "notes": "Film export: no more jump near the start. A big picture opened for the first time while recording held the video up for a moment (about 0.3 s of frames were missing). Now every picture is opened and every moment drawn once before recording starts."
+ },
+ {
   "v": "1.21.21",
   "notes": "Film export: the start of the video is smooth now. A film with no sound at the very start made the video file's sound begin late, which threw off the timing of the first part (and could cut the video short); now silence is recorded from the first moment. Export also warms up pictures, effects and videos before it starts, and the preview stops drawing while it records."
  },
