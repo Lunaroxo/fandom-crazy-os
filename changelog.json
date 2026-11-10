@@ -1,5 +1,9 @@
 [
  {
+  "v": "1.21.24",
+  "notes": "Desktop: the Delete key no longer deletes desktop icons (no more accidents); right-click › Delete… asks first. Wallpaper: upload an MP4 / WebM video or a GIF as a moving wallpaper. It plays under the icons and stays on this computer only (never uploaded)."
+ },
+ {
   "v": "1.21.23",
   "notes": "Film: Export video now asks Normal (plays through once, MP4) or Frame by frame (WebM). Frame by frame draws every frame exactly, with videos moved to each moment and the sound mixed separately, so it never skips or jumps, even on a slow computer."
  },
